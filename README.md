@@ -16,6 +16,11 @@ if (getenv('DRUPAL_ENV') === 'production') {
 }
 ```
 
+---
+
+### Practice Features
+
+i added a new feature called Blog :
 
 <img width="1438" alt="image" src="https://github.com/user-attachments/assets/93fc9ec8-5e21-493a-8814-1ecdaa350bce" />
 
