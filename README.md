@@ -15,3 +15,17 @@ if (getenv('DRUPAL_ENV') === 'production') {
   $config['config_split.config_split.development_configuration']['status'] = FALSE;
 }
 ```
+
+
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/93fc9ec8-5e21-493a-8814-1ecdaa350bce" />
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/8ca45714-56eb-46e3-ad36-b2cf68619b32" />
+<img width="433" alt="image" src="https://github.com/user-attachments/assets/cb0fb203-bdf7-4052-a946-2b86c09cb470" />
+
+```bash
+./vendor/bin/drush en blog
+```
+<img width="868" alt="image" src="https://github.com/user-attachments/assets/36a51617-7cca-4459-81db-0fd3880d7af2" />
+
+Blog content type is added successfully :
+<img width="1439" alt="image" src="https://github.com/user-attachments/assets/0efa4034-c938-44ef-b777-983715b6eddd" />
