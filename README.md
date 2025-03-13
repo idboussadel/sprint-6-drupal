@@ -2,8 +2,6 @@
 
 ### Practice Configuration Sync
 
-<img width="1431" alt="image" src="https://github.com/user-attachments/assets/fd68bede-078a-4a38-887d-6cafbfa9459b" /><img width="1440" alt="image" src="https://github.com/user-attachments/assets/3e7e643f-e8e5-448b-b395-68c87cfaec03" />
-
 <img width="1360" alt="image" src="https://github.com/user-attachments/assets/4d32db9c-b0a2-4071-97f4-257306236587" />
 
 <img width="1375" alt="image" src="https://github.com/user-attachments/assets/e66d5319-8132-4231-8b30-89233f65b218" />
