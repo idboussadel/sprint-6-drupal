@@ -2,6 +2,8 @@
 
 ### Practice Configuration Sync
 
+Let's create a new split for developement configuration :
+
 <img width="1360" alt="image" src="https://github.com/user-attachments/assets/4d32db9c-b0a2-4071-97f4-257306236587" />
 
 <img width="1375" alt="image" src="https://github.com/user-attachments/assets/e66d5319-8132-4231-8b30-89233f65b218" />
