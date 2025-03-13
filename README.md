@@ -86,3 +86,32 @@ I changed the content type name in production, then added a new field, Subtitle,
 
 <img width="1435" alt="image" src="https://github.com/user-attachments/assets/95e1aedb-9479-4394-9873-2e8f3b836033" />
 
+---
+
+### **🚀 Key Takeaways**
+
+#### **✅ Configuration Synchronization (Config Sync)**
+
+**Why?**
+
+- Ensures the entire site configuration is identical across environments.
+- Ideal for full-site deployments and strict version control.
+
+**When to Use?**
+
+- Setting up a new environment (e.g., dev → staging → production).
+- Deploying global changes (roles, permissions, views, etc.).
+
+---
+
+#### **✅ Features Module**
+
+**Why?**
+
+- Allows selective deployment of specific configurations.
+- Prevents unwanted global overrides.
+
+**When to Use?**
+
+- Deploying specific features (e.g., a new content type) without affecting the whole site.
+- Managing modular updates in a multi-developer workflow.
