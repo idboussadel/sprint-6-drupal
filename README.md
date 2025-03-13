@@ -17,9 +17,11 @@ Then export it using :
 <img width="997" alt="image" src="https://github.com/user-attachments/assets/ec49d4b7-1aad-4dcb-80ca-5310a570833a" />
 
 Here is the result of the split :
+
 <img width="370" alt="image" src="https://github.com/user-attachments/assets/cadd84d7-5448-4731-b440-bd36edfd9a27" />
 
-Oou can import it using the UI:
+You can import it using the UI:
+
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/2b70285b-5413-4071-9525-ce3a29b4f88e" />
 
 
