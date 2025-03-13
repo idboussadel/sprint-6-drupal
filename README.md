@@ -16,12 +16,14 @@ Then export it using :
 
 <img width="997" alt="image" src="https://github.com/user-attachments/assets/ec49d4b7-1aad-4dcb-80ca-5310a570833a" />
 
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/2b70285b-5413-4071-9525-ce3a29b4f88e" />
-
+Here is the result of the split :
 <img width="370" alt="image" src="https://github.com/user-attachments/assets/cadd84d7-5448-4731-b440-bd36edfd9a27" />
 
+Oou can import it using the UI:
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/2b70285b-5413-4071-9525-ce3a29b4f88e" />
 
-Past the folder in your production repo, and update the config_sync_directory and add DRUPAL_ENV to see if it's a production env or dev. then add in your settings.php :
+
+Or past the folder in your production repo ( make sure you change the uuid and config_sync_directory hash ) , and update the config_sync_directory and add DRUPAL_ENV to see if it's a production env or dev. then add in your settings.php :
 
 ```php
 $settings['config_sync_directory'] = 'sites/default/files/config_mXIfz1dmgBfSa28m8yZ5UXMHVvNI36a1ocM3TqL_jUqSTouexaeTh4yADe-BsVMLigTq8OyMmg/sync';
