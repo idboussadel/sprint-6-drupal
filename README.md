@@ -8,6 +8,12 @@ Let's create a new split for developement configuration :
 
 <img width="1375" alt="image" src="https://github.com/user-attachments/assets/e66d5319-8132-4231-8b30-89233f65b218" />
 
+Then export it using :
+
+```bash
+ ./vendor/bin/drush config:export
+```
+
 <img width="997" alt="image" src="https://github.com/user-attachments/assets/ec49d4b7-1aad-4dcb-80ca-5310a570833a" />
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/2b70285b-5413-4071-9525-ce3a29b4f88e" />
@@ -35,6 +41,13 @@ Then run :
 ---
 
 ### Practice Features
+
+Let's install the featture module ,i found an error when installing feature latest verision with drupal 10 , here is the fix :
+
+```bash
+composer require drupal/config_update:^2.0@alpha
+composer require 'drupal/features:^3.14'
+```
 
 i added a new feature called Blog :
 
